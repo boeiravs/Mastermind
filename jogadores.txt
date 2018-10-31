@@ -1,0 +1,5 @@
+boeira	:	Boeira	:	80	
+jaime	:	Junior	:	90
+thiago	:	Thiago	:	11	
+a123	:	A123	:	12	
+paloma	:	Paloma	:	99	
